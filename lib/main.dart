@@ -1,6 +1,5 @@
 import 'package:animation_practice/Implicit_Animation/Animatedcontainer.dart';
 import 'package:flutter/material.dart';
-import 'Implicit_Animation/Animatedalign.dart';
 
 void main() {
   runApp(const MyApp());
