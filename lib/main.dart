@@ -1,5 +1,6 @@
 import 'package:animation_practice/Implicit_Animation/Animatedcrossfade.dart';
 import 'package:animation_practice/Implicit_Animation/Animateddefaulttextstyle.dart';
+import 'package:animation_practice/Implicit_Animation/Animatedopacity.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,7 +11,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // ✨ Change this widget to test other animations
-  final Widget _currentExample = const AnimatedDefaultTextStyleExample();
+  final Widget _currentExample = const AnimatedOpacityExample();
   // e.g. const AnimatedContainerExample();
 
   @override
