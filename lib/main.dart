@@ -1,4 +1,4 @@
-import 'package:animation_practice/Implicit_Animation/Animatedpadding.dart';
+import 'package:animation_practice/Implicit_Animation/Animatedphysicalmodel.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // ✨ Change this widget to test other animations
-  final Widget _currentExample = const Animatedpadding();
+  final Widget _currentExample = const Animatedphysicalmodel();
   // e.g. const AnimatedContainerExample();
 
   @override
