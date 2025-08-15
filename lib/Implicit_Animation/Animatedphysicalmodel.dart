@@ -1,3 +1,20 @@
+/*
+Animated physical model : 
+ AnimatedPhysicalModel in Flutter is used when you want to animate the "physical" appearance of a widget — 
+ things that are related to how it would look in real-world material design terms.
+
+It’s particularly for animating:
+
+Color of the surface
+Shadow color
+Elevation (depth/shadow size)
+Shape (rectangle or circle)
+Border radius (rounded corners)
+*/
+
+
+
+
 import 'package:flutter/material.dart';
 
 class Animatedphysicalmodel extends StatefulWidget{

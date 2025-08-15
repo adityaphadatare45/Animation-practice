@@ -1,4 +1,5 @@
 import 'package:animation_practice/Implicit_Animation/Animatedphysicalmodel.dart';
+import 'package:animation_practice/Implicit_Animation/Animatedtheme.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,7 +10,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // ✨ Change this widget to test other animations
-  final Widget _currentExample = const Animatedphysicalmodel();
+  final Widget _currentExample = const Animatedtheme();
   // e.g. const AnimatedContainerExample();
 
   @override

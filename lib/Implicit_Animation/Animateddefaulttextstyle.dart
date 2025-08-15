@@ -1,3 +1,12 @@
+/*
+AnimatedDefaultTextStyle : 
+
+Use: Animates changes in text style (fontSize, color, fontWeight).
+When to use:
+
+Smooth typography changes (highlight selected text, hover effects). 
+*/
+
 import 'package:flutter/material.dart';
 
 class AnimatedDefaultTextStyleExample extends StatefulWidget {

@@ -1,3 +1,11 @@
+/*
+AnimatedAlign :
+Use: Animates a child’s position within its parent using Alignment.
+
+When to use:
+Moving an element to different corners/center of its parent smoothly. 
+*/
+
 import 'package:flutter/material.dart';
 
 class AnimatedalignExample extends StatefulWidget{

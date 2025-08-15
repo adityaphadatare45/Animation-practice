@@ -1,3 +1,13 @@
+/*
+AnimatedContainer : 
+
+Use: Animates multiple properties of a Container (size, padding, margin, color, borderRadius, alignment, etc.).
+
+When to use:
+Changing UI layout smoothly (button resize, color transitions, rounded corners).
+
+
+*/
 import 'package:flutter/material.dart';
 
 class AnimatedContainerExample extends StatefulWidget {

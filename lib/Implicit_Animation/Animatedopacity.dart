@@ -1,3 +1,11 @@
+/*
+AnimatedOpacity :
+
+Use: Animates a widget’s opacity (fade in/out).
+
+When to use:
+Fading text, images, or entire UI sections in/out.
+*/ 
 import 'package:flutter/material.dart';
 
 class AnimatedOpacityExample extends StatefulWidget {

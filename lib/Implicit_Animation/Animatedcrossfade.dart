@@ -1,3 +1,12 @@
+/*
+AnimatedCrossFade :
+
+Use: Crossfades between two widgets (and optionally resizes them).
+When to use:
+
+Switching between two different views or states (collapsed ↔ expanded).
+ */
+
 import 'package:flutter/material.dart';
 
 class AnimatedcrossfadeExample extends StatefulWidget {

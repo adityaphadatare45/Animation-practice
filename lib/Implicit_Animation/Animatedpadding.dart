@@ -1,3 +1,10 @@
+/*
+AnimatedPadding :
+
+Use: Animates changes in a widget’s padding.
+When to use:
+Smoothly expanding/collapsing spacing around a widget without sudden jumps.
+*/
 import 'package:flutter/material.dart';
 
 class Animatedpadding extends StatefulWidget{
